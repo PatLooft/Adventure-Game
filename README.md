@@ -1,0 +1,2 @@
+# Adventure-Game
+A text based adventure game that consists of finding items on a map. You are started in a room and you can move to other rooms by answering riddles. If you answer the riddle wrong you lose a life. There are also enemies that can cause you to lose lives. You can buy lives from the shopkeeper who spawns in one room on the map. The game is over after you run out of lives or you find all of the items on the list. You are given 3 lives.
